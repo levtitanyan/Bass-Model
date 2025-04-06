@@ -1,5 +1,3 @@
-
-=======
 # Bass Model
 
 ## Project Overview
